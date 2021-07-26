@@ -1,32 +1,24 @@
-Miniport by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Hi, I'm Sivaganeshan,
 
+Full-Stack Software Engineer with overall 7+ years of experience. As an individual contributor, Primarily developed, managed Web and desktop client applications.
 
-A super simple responsive portfolio template. It's only a single page because hey, sometimes
-you don't need a half dozen pages to make your point.
+Apart from work, I like to spend my time in Western Philosophy, European football and Western Classsical music.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Intrests : React ,Html, css, Javascript,Typescript, Node, Express , Nosql 
 
-(* = Not included)
+Following are some of the side projects i have worked on:
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+1)Premium Quiz App : Integrated stripe payment gateway and enabled features only to premium users
+Hosted Url : https://premiumquizapp.vercel.app/
+Code ;https://github.com/sivaganeshan/pquizapp
 
-AJ
-aj@lkn.io | @ajlkn
+2)Amplify-Live Chat : Realtime live chat application with the help of AWS amplify and appsync
+code: https://github.com/sivaganeshan/amplifylivechat
 
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
+3)Restaurents Review App : A web application to add review and give comments about Restaurents and its cuisines
+Hosted Url : https://restaurents-review-nzloo-xcucp.mongodbstitch.com/
+code : https://github.com/sivaganeshan/restaurantsreviewwebapp
 
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+4)Rick and Morty Infotainment : A web application to detail the information about Rick and morty TV show characters.
+Hosted Url : https://graphqlbasics.vercel.app/
+code: https://github.com/sivaganeshan/Graphqlbasics
