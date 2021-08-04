@@ -2,13 +2,13 @@ Hi, I'm Sivaganeshan,
 
 Full-Stack Software Engineer with overall 7+ years of experience. As an individual contributor, Primarily developed, managed Web and desktop client applications.
 
-Apart from work, I like to spend my time in Western Philosophy, European football and Western Classsical music.
+Apart from work, I like to spend my time in Western Philosophy, European football and Western Classical music.
 
-Intrests : React ,Html, css, Javascript,Typescript, Node, Express , Nosql 
+Intrests : React ,React Naative, Html, css, Javascript,Typescript, Node, Express , Nosql 
 
-Following are some of the side projects i have worked on:
+Following are some of the side projects I have recently worked on:
 
-1)Premium Quiz App : Integrated stripe payment gateway and enabled features only to premium users
+1)Premium Quiz App : A side project to integrate stripe payment gateway and enabled features for premium and normal users
 Hosted Url : https://premiumquizapp.vercel.app/
 Code ;https://github.com/sivaganeshan/pquizapp
 
