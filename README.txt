@@ -4,7 +4,7 @@ Full-Stack Software Engineer with overall 7+ years of experience. As an individu
 
 Apart from work, I like to spend my time in Western Philosophy, European football and Western Classical music.
 
-Intrests : React ,React Naative, Html, css, Javascript,Typescript, Node, Express , Nosql 
+Intrests : React ,React Native, Html, css, Javascript,Typescript, Node, Express , Nosql 
 
 Following are some of the side projects I have recently worked on:
 
