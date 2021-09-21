@@ -8,21 +8,25 @@ Intrests : React ,React Native, Html, css, Javascript,Typescript, Node, Express 
 
 Following are some of the side projects I have recently worked on:
 
-1) Global Governance Dashboard - Leaderboard/dashboard for Crypto protocols DAO data(from BoardRoom API).
+1)Iotex Pebble Dashboard - Dashboard to visualise the telemetry data from Iotex pebble device.
+code: https://github.com/sivaganeshan/iotexpebbledashboard
+demo: https://drive.google.com/file/d/1KN8NHJ6AB3YdEUbZAi85oCJnxS4bCRFS/view?usp=sharing
+
+2) Global Governance Dashboard - Leaderboard/dashboard for Crypto protocols DAO data(from BoardRoom API).
 HostedUrl: https://globalgovernancedashboard.vercel.app/
 code:https://github.com/sivaganeshan/globalgovernancedashboard
 
-2)Premium Quiz App : A side project to integrate stripe payment gateway and enabled features for premium and normal users
+3)Premium Quiz App : A side project to integrate stripe payment gateway and enabled features for premium and normal users
 Hosted Url : https://premiumquizapp.vercel.app/
 Code ;https://github.com/sivaganeshan/pquizapp
 
-3)Amplify-Live Chat : Realtime live chat application with the help of AWS amplify and appsync
+4)Amplify-Live Chat : Realtime live chat application with the help of AWS amplify and appsync
 code: https://github.com/sivaganeshan/amplifylivechat
 
-4)Restaurents Review App : A web application to add review and give comments about Restaurents and its cuisines
+5)Restaurents Review App : A web application to add review and give comments about Restaurents and its cuisines
 Hosted Url : https://restaurents-review-nzloo-xcucp.mongodbstitch.com/
 code : https://github.com/sivaganeshan/restaurantsreviewwebapp
 
-5)Rick and Morty Infotainment : A web application to detail the information about Rick and morty TV show characters.
+6)Rick and Morty Infotainment : A web application to detail the information about Rick and morty TV show characters.
 Hosted Url : https://graphqlbasics.vercel.app/
 code: https://github.com/sivaganeshan/Graphqlbasics
