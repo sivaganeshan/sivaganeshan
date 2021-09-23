@@ -8,9 +8,12 @@ Intrests : React ,React Native, Html, css, Javascript,Typescript, Node, Express 
 
 Following are some of the side projects I have recently worked on:
 
+
 1)Iotex Pebble Dashboard - Dashboard to visualise the telemetry data from Iotex pebble device.
 code: https://github.com/sivaganeshan/iotexpebbledashboard
-demo: https://drive.google.com/file/d/1KN8NHJ6AB3YdEUbZAi85oCJnxS4bCRFS/view?usp=sharing
+demo:  https://drive.google.com/file/d/1_oDp88hF6Mi861_tNplwxICr6LixzcDq/view?usp=sharing
+hostedUrl: http://www.sivapp.in
+
 
 2) Global Governance Dashboard - Leaderboard/dashboard for Crypto protocols DAO data(from BoardRoom API).
 HostedUrl: https://globalgovernancedashboard.vercel.app/
