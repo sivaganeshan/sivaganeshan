@@ -1,10 +1,11 @@
 Hi, I'm Sivaganeshan,
 
 Full-Stack Software Engineer with overall 7+ years of experience. As an individual contributor, Primarily developed, managed Web and desktop client applications.
+Learning and started to contributing in different Blockchain Technologies(as a Javascript enginner) 
 
 Apart from work, I like to spend my time in Western Philosophy, European football and Western Classical music.
 
-Intrests : React ,React Native, Html, css, Javascript,Typescript, Node, Express , Nosql 
+Intrests : React ,React Native, Html, css, Javascript,Typescript, Web3.js, Ether.js, Node, Express , Nosql 
 
 Following are some of the side projects I have recently worked on:
 
