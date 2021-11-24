@@ -9,28 +9,31 @@ Intrests : React ,React Native, Html, css, Javascript,Typescript, Web3.js, Ether
 
 Following are some of the side projects I have recently worked on:
 
+1.Defi Learning - A side project to learn and build decentralised applications(Smart contracts, 
+  React frontend , truffle , Ganache , tests and deployments)
+  code : https://github.com/sivaganeshan/defi_learning
+  demo : https://drive.google.com/file/d/1ocBk8hU2hJhChK_FmBK1rBQM2AOS6vT3/view?usp=sharing
+   
+1.Iotex Pebble Dashboard - Dashboard to visualise the telemetry data from Iotex pebble device.
+  code: https://github.com/sivaganeshan/iotexpebbledashboard  
+  demo:  https://drive.google.com/file/d/1_oDp88hF6Mi861_tNplwxICr6LixzcDq/view?usp=sharing
 
-1)Iotex Pebble Dashboard - Dashboard to visualise the telemetry data from Iotex pebble device.
-code: https://github.com/sivaganeshan/iotexpebbledashboard
-demo:  https://drive.google.com/file/d/1_oDp88hF6Mi861_tNplwxICr6LixzcDq/view?usp=sharing
-hostedUrl: http://www.sivapp.in
 
+1.Global Governance Dashboard - Leaderboard/dashboard for Crypto protocols DAO data(from BoardRoom API).
+  HostedUrl: https://globalgovernancedashboard.vercel.app/
+  code:https://github.com/sivaganeshan/globalgovernancedashboard
 
-2) Global Governance Dashboard - Leaderboard/dashboard for Crypto protocols DAO data(from BoardRoom API).
-HostedUrl: https://globalgovernancedashboard.vercel.app/
-code:https://github.com/sivaganeshan/globalgovernancedashboard
+1.Premium Quiz App : A side project to integrate stripe payment gateway and enabled features for premium and normal users
+  Hosted Url : https://premiumquizapp.vercel.app/
+  Code ;https://github.com/sivaganeshan/pquizapp
 
-3)Premium Quiz App : A side project to integrate stripe payment gateway and enabled features for premium and normal users
-Hosted Url : https://premiumquizapp.vercel.app/
-Code ;https://github.com/sivaganeshan/pquizapp
+1.Amplify-Live Chat : Realtime live chat application with the help of AWS amplify and appsync
+  code: https://github.com/sivaganeshan/amplifylivechat
 
-4)Amplify-Live Chat : Realtime live chat application with the help of AWS amplify and appsync
-code: https://github.com/sivaganeshan/amplifylivechat
+1.Restaurents Review App : A web application to add review and give comments about Restaurents and its cuisines
+  Hosted Url : https://restaurents-review-nzloo-xcucp.mongodbstitch.com/
+  code : https://github.com/sivaganeshan/restaurantsreviewwebapp
 
-5)Restaurents Review App : A web application to add review and give comments about Restaurents and its cuisines
-Hosted Url : https://restaurents-review-nzloo-xcucp.mongodbstitch.com/
-code : https://github.com/sivaganeshan/restaurantsreviewwebapp
-
-6)Rick and Morty Infotainment : A web application to detail the information about Rick and morty TV show characters.
-Hosted Url : https://graphqlbasics.vercel.app/
-code: https://github.com/sivaganeshan/Graphqlbasics
+1.Rick and Morty Infotainment : A web application to detail the information about Rick and morty TV show characters.
+  Hosted Url : https://graphqlbasics.vercel.app/
+  code: https://github.com/sivaganeshan/Graphqlbasics
