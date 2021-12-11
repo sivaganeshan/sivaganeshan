@@ -5,7 +5,7 @@ Learning and contributing in different Blockchain Technologies(as a Javascript e
 
 Apart from work, I like to spend my time in Western Philosophy, European football and Western Classical music.
 
-Intrests : React ,React Native, Html, css, Javascript,Typescript, Web3.js, Ether.js, Node, Express , Nosql 
+Intrests : React ,React Native, Solidity, Rust, Html, css, Javascript,Typescript, Web3.js, Ether.js, Node, Express , Nosql 
 
 Following are some of the side projects I have recently worked on:
 
