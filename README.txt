@@ -9,15 +9,14 @@ Intrests : React ,React Native, Solidity, Rust, Html, css, Javascript,Typescript
 
 Following are some of the side projects I have recently worked on:
 
-1) Staking Over Rinkeby - Created a new ERC20(RONE) token, Token farming smart contract where users can stake ETH and RONE(newly created ERC20 token)
-   and get rewards back in RONE token.
+1). Staking Over Rinkeby - Created a new ERC20(RONE) token and Token farming smart contract where users can stake ETH and RONE(newly created ERC20 token) and get    rewards back in RONE token.
    Smart contract code base : https://github.com/sivaganeshan/defi_staking
    Front end code base : https://github.com/sivaganeshan/defi_staking_frontend
    Live  : http://defi-staking-frontend.vercel.app/
    RONE token deployed address : https://rinkeby.etherscan.io/token/0x42bF23a5f20dC921054982523581341Af804C0a5
    SmartContract address : https://rinkeby.etherscan.io/address/0x2e6c4dbc2a805154f92301e3E3B6Fc1eDaa0F1D4
    
-2) Image Combiner - A side project to get comfortable with RUST programming language. 
+2). Image Combiner - A side project to get comfortable with RUST programming language. 
  code: https://github.com/sivaganeshan/image_combiner
 
 3). Defi Learning - A side project to learn and build decentralised applications(Smart contracts, 
