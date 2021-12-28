@@ -5,11 +5,11 @@ Learning and contributing in different Blockchain Technologies(as a Javascript e
 
 Apart from work, I like to spend my time in Western Philosophy, European football and Western Classical music.
 
-Intrests : React ,React Native, Solidity, Rust, Html, css, Javascript,Typescript, Web3.js, Ether.js, Node, Express , Nosql 
+Intrests : React ,React Native,Javascript,Typescript, Solidity, Hardhat, Truffle, Rust, Html, css, Web3.js, Ether.js, Node, Express , Nosql 
 
 Following are some of the side projects I have recently worked on:
 
-1). Staking Over Rinkeby - Created a new ERC20(RONE) token and Token farming smart contract where users can stake ETH and RONE(newly created ERC20 token) and get    rewards back in RONE token.
+1). Staking Over Rinkeby - Created a new ERC20(RONE) token and Token farming smart contract where users can stake ETH and RONE(newly created ERC20 token) and get rewards back in RONE token.
    Smart contract code base : https://github.com/sivaganeshan/defi_staking
    Front end code base : https://github.com/sivaganeshan/defi_staking_frontend
    Live  : http://defi-staking-frontend.vercel.app/
