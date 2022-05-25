@@ -1,6 +1,6 @@
 Hi, I'm Sivaganeshan,
 
-Full-Stack Software Engineer with overall 7+ years of experience. As an individual contributor, Primarily developed, managed Web and desktop client applications.
+Full-Stack Software Engineer. As an individual contributor, Primarily developed, managed Web and desktop client applications.
 Learning and contributing in different Blockchain Technologies(as a Javascript enginner) 
 
 Apart from work, I like to spend my time in Western Philosophy, European football and Western Classical music.
