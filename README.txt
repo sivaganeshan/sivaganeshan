@@ -9,7 +9,7 @@ Intrests : React ,React Native,Javascript,Typescript, Solidity, Hardhat, Truffle
 
 Following are some of the side projects I have recently worked on:
 
-1) DocV Protocol - DocV Protocol is a blockchain-based workflow for institutions and legal entities for certifying any documentation and verification flow.
+1) DocV Protocol - DocV Protocol is a blockchain-based workflow for institutions and legal entities for certifying any document and verification of the same.
   Demo : https://showcase.ethglobal.com/roadtoweb3/docv-protocol
   code : https://github.com/sivaganeshan/docvprotocol
 
